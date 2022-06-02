@@ -1,0 +1,13 @@
+1) player 1 selects between X or O
+
+2) p1 selects position and enter its choice
+check done to make sure that inputs are valid
+the choice of player assigned to that postion
+a function checks for the winning pattern
+
+3) p2 selects position and enters their choice
+check done to make sure that inputs are valid
+the choice of player assigned to that postion
+a function that checks for winning pattern
+
+4) if pattern found print player wins
