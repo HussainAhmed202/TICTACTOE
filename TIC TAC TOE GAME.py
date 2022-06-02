@@ -1,6 +1,6 @@
 def validity():
-    """It makes sure suer enters valid rows and columns without
-     raising index error """
+    """It makes sure user enters valid rows and columns without
+     Raising IndexError """
 
     while True:
         try:
